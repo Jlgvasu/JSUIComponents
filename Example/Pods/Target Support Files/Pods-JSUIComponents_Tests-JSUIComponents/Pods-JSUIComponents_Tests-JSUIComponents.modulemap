@@ -1,0 +1,6 @@
+framework module JSUIComponents {
+  umbrella header "Pods-JSUIComponents_Tests-JSUIComponents-umbrella.h"
+
+  export *
+  module * { export * }
+}

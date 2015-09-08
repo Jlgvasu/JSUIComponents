@@ -1,0 +1,25 @@
+{
+  "name": "JSUIComponents",
+  "version": "0.1.0",
+  "summary": "A short description of JSUIComponents.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/JSUIComponents",
+  "license": "MIT",
+  "authors": {
+    "Srinivas Jayanthi": "srinivas.jayanthi@hedgehoglab.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/JSUIComponents.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "JSUIComponents": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

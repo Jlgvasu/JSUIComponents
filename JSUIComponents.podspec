@@ -9,22 +9,21 @@
 Pod::Spec.new do |s|
   s.name             = "JSUIComponents"
   s.version          = "0.1.0"
-  s.summary          = "A short description of JSUIComponents."
+  s.summary          = "A set of reusable UIComponents restructured for easier usage."
 
 # This description is used to generate tags and improve search results.
-#   * Think: What does it do? Why did you write it? What is the focus?
-#   * Try to keep it short, snappy and to the point.
-#   * Write the description between the DESC delimiters below.
-#   * Finally, don't worry about the indent, CocoaPods strips it!  
+#   * Think: Allows user to create UIComponents easier and takes less time to configure components in the application.
+#   * This pod contains UIcomponents like Label, TextField, Button etc...
+
   s.description      = <<-DESC
                        DESC
 
-  s.homepage         = "https://github.com/<GITHUB_USERNAME>/JSUIComponents"
+  s.homepage         = "https://github.com/jlgvasu/JSUIComponents"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
-  s.author           = { "Srinivas Jayanthi" => "srinivas.jayanthi@hedgehoglab.com" }
-  s.source           = { :git => "https://github.com/<GITHUB_USERNAME>/JSUIComponents.git", :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.author           = { "Srinivas Jayanthi" => "jlgvasu@gmail.com" }
+  s.source           = { :git => "https://github.com/jlgvasu/JSUIComponents.git", :tag => s.version.to_s }
+  # s.social_media_url = 'https://twitter.com/jlgvasu'
 
   s.platform     = :ios, '7.0'
   s.requires_arc = true

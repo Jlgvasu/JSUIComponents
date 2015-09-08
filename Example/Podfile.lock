@@ -1,0 +1,14 @@
+PODS:
+  - JSUIComponents (0.1.0)
+
+DEPENDENCIES:
+  - JSUIComponents (from `../`)
+
+EXTERNAL SOURCES:
+  JSUIComponents:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JSUIComponents: 1f03ecacfe39c53a6e321ddd8c82a6ee2901381d
+
+COCOAPODS: 0.37.2
