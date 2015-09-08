@@ -48,6 +48,7 @@
 		1A794C7C95A80E8F4FFDC99C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		24B54E952C5DF5AACCB96CAA /* Pods-JSUIComponents_Tests-environment.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-JSUIComponents_Tests-environment.h"; sourceTree = "<group>"; };
 		2EC605D1C0238E11FAFC706B /* Pods-JSUIComponents_Tests-JSUIComponents-Private.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-JSUIComponents_Tests-JSUIComponents-Private.xcconfig"; sourceTree = "<group>"; };
+		577008141B9EE8C600A47AA1 /* JSComponents.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JSComponents.h; sourceTree = "<group>"; };
 		57C351601B9EDEBB00D80ADD /* JSButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JSButton.h; sourceTree = "<group>"; };
 		57C351611B9EDEBB00D80ADD /* JSButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JSButton.m; sourceTree = "<group>"; };
 		57C351631B9EDEBB00D80ADD /* JSLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JSLabel.h; sourceTree = "<group>"; };
@@ -236,6 +237,7 @@
 				57C3515F1B9EDEBB00D80ADD /* Button */,
 				57C351621B9EDEBB00D80ADD /* Label */,
 				57C351651B9EDEBB00D80ADD /* TextField */,
+				577008141B9EE8C600A47AA1 /* JSComponents.h */,
 			);
 			path = Classes;
 			sourceTree = "<group>";

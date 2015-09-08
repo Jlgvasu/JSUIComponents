@@ -11,13 +11,6 @@ Pod::Spec.new do |s|
   s.version          = "0.1.0"
   s.summary          = "A set of reusable UIComponents restructured for easier usage."
 
-# This description is used to generate tags and improve search results.
-#   * Think: Allows user to create UIComponents easier and takes less time to configure components in the application.
-#   * This pod contains UIcomponents like Label, TextField, Button etc...
-
-  s.description      = <<-DESC
-                       DESC
-
   s.homepage         = "https://github.com/jlgvasu/JSUIComponents"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
